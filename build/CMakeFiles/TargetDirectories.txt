@@ -1,5 +1,5 @@
-/home/lip/Desktop/mylib/build/CMakeFiles/rebuild_cache.dir
-/home/lip/Desktop/mylib/build/CMakeFiles/edit_cache.dir
-/home/lip/Desktop/mylib/build/src/CMakeFiles/edit_cache.dir
-/home/lip/Desktop/mylib/build/src/CMakeFiles/rebuild_cache.dir
-/home/lip/Desktop/mylib/build/src/CMakeFiles/mylib.dir
+/home/lip/Desktop/MyLib/build/CMakeFiles/rebuild_cache.dir
+/home/lip/Desktop/MyLib/build/CMakeFiles/edit_cache.dir
+/home/lip/Desktop/MyLib/build/src/CMakeFiles/edit_cache.dir
+/home/lip/Desktop/MyLib/build/src/CMakeFiles/rebuild_cache.dir
+/home/lip/Desktop/MyLib/build/src/CMakeFiles/mylib.dir

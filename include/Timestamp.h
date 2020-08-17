@@ -5,6 +5,8 @@
 #include <ctime>
 #ifdef _WINDOWS
 #include<Windows.h>
+#else
+#include<sys/time.h>
 #endif
 /*
 �ڲ����浱����߹���΢������ptime

@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/lip/Desktop/mylib/src/CurrentThread.cpp" "/home/lip/Desktop/mylib/build/src/CMakeFiles/mylib.dir/CurrentThread.cpp.o"
-  "/home/lip/Desktop/mylib/src/LogStream.cpp" "/home/lip/Desktop/mylib/build/src/CMakeFiles/mylib.dir/LogStream.cpp.o"
-  "/home/lip/Desktop/mylib/src/Logger.cpp" "/home/lip/Desktop/mylib/build/src/CMakeFiles/mylib.dir/Logger.cpp.o"
-  "/home/lip/Desktop/mylib/src/ThreadPool.cpp" "/home/lip/Desktop/mylib/build/src/CMakeFiles/mylib.dir/ThreadPool.cpp.o"
-  "/home/lip/Desktop/mylib/src/Timestamp.cpp" "/home/lip/Desktop/mylib/build/src/CMakeFiles/mylib.dir/Timestamp.cpp.o"
+  "/home/lip/Desktop/MyLib/src/CurrentThread.cpp" "/home/lip/Desktop/MyLib/build/src/CMakeFiles/mylib.dir/CurrentThread.cpp.o"
+  "/home/lip/Desktop/MyLib/src/LogStream.cpp" "/home/lip/Desktop/MyLib/build/src/CMakeFiles/mylib.dir/LogStream.cpp.o"
+  "/home/lip/Desktop/MyLib/src/Logger.cpp" "/home/lip/Desktop/MyLib/build/src/CMakeFiles/mylib.dir/Logger.cpp.o"
+  "/home/lip/Desktop/MyLib/src/ThreadPool.cpp" "/home/lip/Desktop/MyLib/build/src/CMakeFiles/mylib.dir/ThreadPool.cpp.o"
+  "/home/lip/Desktop/MyLib/src/Timestamp.cpp" "/home/lip/Desktop/MyLib/build/src/CMakeFiles/mylib.dir/Timestamp.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
