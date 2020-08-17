@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../bin/libmylib.a  CMakeFiles/mylib.dir/CurrentThread.cpp.o CMakeFiles/mylib.dir/LogStream.cpp.o CMakeFiles/mylib.dir/Logger.cpp.o CMakeFiles/mylib.dir/ThreadPool.cpp.o CMakeFiles/mylib.dir/Timestamp.cpp.o
+/usr/bin/ranlib ../../bin/libmylib.a
