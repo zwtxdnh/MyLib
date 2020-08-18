@@ -6,7 +6,7 @@ cd ./build
 cmake ..
 make
 cd ../test
-g++ main.cpp ../bin/libmylib.a -lpthread -o test
+g++ main.cpp -g ../bin/libmylib.a -lpthread -o test -std=c++11
 cp test ../bin/test
 rm test
 ../bin/test

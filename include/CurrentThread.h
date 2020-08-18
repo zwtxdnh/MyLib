@@ -7,6 +7,7 @@
 #include<DbgHelp.h>
 #else
 #include <sys/syscall.h>
+#include<unistd.h>
 #endif
 
 
@@ -22,9 +23,13 @@ namespace base {
 		{
 			if (t_cachedTid == 0)
 			{
+				#ifdef _WINDOWS
 				auto tidobj=std::this_thread::get_id();
 				t_cachedTid = *(int*)&tidobj;
 				t_tidStringLength = snprintf(t_tidString, sizeof t_tidString, "%5d ", t_cachedTid);
+				#else
+				t_cachedTid=::syscall(SYS_gettid);
+				#endif
 			}
 			return t_cachedTid;
 		}
